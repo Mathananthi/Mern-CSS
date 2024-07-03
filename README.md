@@ -182,7 +182,8 @@ body{
 ```
 
 ### OUTPUT:
-![Screenshot (29)](https://github.com/Mathananthi/Mern-CSS/assets/135731816/e899f77a-d4b5-4ae7-81ee-19de3e82a487)
+![Screenshot (29)](https://github.com/Mathananthi/Mern-CSS/assets/135731816/0c5a9b2a-a6a5-4d95-9d4d-fd9c0abcc1ad)
+
 
 ### RESULT:
 Thus, the Website from the given images using CSS was executed succesfully.
